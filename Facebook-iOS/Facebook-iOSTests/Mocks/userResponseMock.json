@@ -1,0 +1,39 @@
+{
+  "id": "122108644100027026",
+  "first_name": "Evhenii",
+  "picture": {
+    "data": {
+      "height": 200,
+      "is_silhouette": false,
+      "url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=122108644100027026&height=200&width=200&ext=1712830198&hash=Afrg5uEo3fc-O2voGyFBbojtrjABYSgNYS34hIcxF5xlkw",
+      "width": 200
+    }
+  },
+  "last_name": "Shelby",
+  "albums": {
+    "data": [
+      {
+        "created_time": "2023-12-18T20:55:00+0000",
+        "name": "Timeline photos",
+        "id": "122148034322027026"
+      },
+      {
+        "created_time": "2023-12-18T20:59:24+0000",
+        "name": "Cover photos",
+        "id": "122148035192027026"
+      },
+      {
+        "created_time": "2023-09-09T12:58:22+0000",
+        "name": "Profile pictures",
+        "id": "122108641592027026"
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "MTIyMTQ4MDM0MzIyMDI3MDI2",
+        "after": "MTIyMTA4NjQxNTkyMDI3MDI2"
+      }
+    }
+  },
+  "email": "evgeniyyy.evgeniyyy@gmail.com"
+}

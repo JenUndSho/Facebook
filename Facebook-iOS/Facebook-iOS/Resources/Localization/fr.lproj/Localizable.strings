@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Facebook-iOS
+
+  Created by Evhenii Shovkovyi on 04.09.2023.
+  
+*/
+
+"Continue With Facebook" = "Continuer avec Facebook";
+"Loading" = "Chargement";
+"Bio Placeholder" = "Votre texte bio pourrait être ici";
+"Add post" = "Ajouter un message";
